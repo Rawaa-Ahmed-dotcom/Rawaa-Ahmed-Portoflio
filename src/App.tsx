@@ -1,4 +1,4 @@
-import React from "react";
+
 import Header from "./components/layout/Header";
 import { motion } from "framer-motion";
 import Banner from "./components/Banner";
